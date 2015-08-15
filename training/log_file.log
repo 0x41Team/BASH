@@ -1,0 +1,56 @@
+The file list of the current directory to day are:
+ពុ ៧ 29 00:26:46 ICT 2015
+total 100
+5149027 drwxrwxr-x  8 flash flash 4096 ៧  29 00:26 .
+5115644 drwxr-xr-x 20 flash flash 4096 ៧  28 23:28 ..
+5383520 drwxr-xr-x  2 root  root  4096 ៧  28 23:42 1
+5517512 drwxr-xr-x  2 root  root  4096 ៧  28 23:42 2
+5149041 -rw-r--r--  1 root  root  5052 ៧  29 00:14 .bash_history
+5149028 -rwxrwxr-x  1 flash flash   87 ៧  28 23:14 bash.sh
+5149042 -rwxr-xr-x  1 root  root   118 ៧  28 23:44 function.sh
+5149039 -rw-r--r--  1 root  root   122 ៧  29 00:19 k.txt
+5149036 -rw-r--r--  1 root  root    83 ៧  29 00:26 log_file.log
+5149048 -rw-r--r--  1 root  root  1271 ៧  29 00:19 log.log
+5149050 -rwxr-xr-x  1 root  root    83 ៧  29 00:22 log.sh
+5149049 -rw-r--r--  1 root  root  1476 ៧  29 00:22 logs.log
+5149047 -rwxr-xr-x  1 root  root   177 ៧  29 00:07 ls.sh
+5383518 drwxr-xr-x  2 root  root  4096 ៧  28 23:39 new
+5149046 -rwxr-xr-x  1 root  root    41 ៧  29 00:03 node.sh
+5248750 drwxr-xr-x  2 root  root  4096 ៧  28 23:39 old
+5383519 drwxr-xr-x  2 root  root  4096 ៧  28 23:39 report
+5149032 -rwxrwxr-x  1 flash flash   81 ៧  28 23:28 script.sh
+5149051 -rwxr-xr-x  1 root  root    88 ៧  29 00:26 study.sh
+5248747 drwxr-xr-x  2 root  root  4096 ៧  28 23:38 test
+5149040 -rw-r--r--  1 root  root     0 ៧  28 23:38 test2.txt
+5149052 -rwxr-xr-x  1 root  root    81 ៧  29 00:24 test.sh
+5149045 -rw-r--r--  1 root  root    20 ៧  28 23:48 test.txt
+5149035 -rwxr-xr-x  1 root  root   197 ៧  28 23:14 while.sh
+5149043 -rwxr-xr-x  1 root  root    71 ៧  29 00:11 win_list.sh
+The file list of the current directory to day are:
+ពុ ៧ 29 00:26:50 ICT 2015
+total 100
+5149027 drwxrwxr-x  8 flash flash 4096 ៧  29 00:26 .
+5115644 drwxr-xr-x 20 flash flash 4096 ៧  28 23:28 ..
+5383520 drwxr-xr-x  2 root  root  4096 ៧  28 23:42 1
+5517512 drwxr-xr-x  2 root  root  4096 ៧  28 23:42 2
+5149041 -rw-r--r--  1 root  root  5052 ៧  29 00:14 .bash_history
+5149028 -rwxrwxr-x  1 flash flash   87 ៧  28 23:14 bash.sh
+5149042 -rwxr-xr-x  1 root  root   118 ៧  28 23:44 function.sh
+5149039 -rw-r--r--  1 root  root   122 ៧  29 00:19 k.txt
+5149036 -rw-r--r--  1 root  root  1688 ៧  29 00:26 log_file.log
+5149048 -rw-r--r--  1 root  root  1271 ៧  29 00:19 log.log
+5149050 -rwxr-xr-x  1 root  root    83 ៧  29 00:22 log.sh
+5149049 -rw-r--r--  1 root  root  1476 ៧  29 00:22 logs.log
+5149047 -rwxr-xr-x  1 root  root   177 ៧  29 00:07 ls.sh
+5383518 drwxr-xr-x  2 root  root  4096 ៧  28 23:39 new
+5149046 -rwxr-xr-x  1 root  root    41 ៧  29 00:03 node.sh
+5248750 drwxr-xr-x  2 root  root  4096 ៧  28 23:39 old
+5383519 drwxr-xr-x  2 root  root  4096 ៧  28 23:39 report
+5149032 -rwxrwxr-x  1 flash flash   81 ៧  28 23:28 script.sh
+5149051 -rwxr-xr-x  1 root  root    88 ៧  29 00:26 study.sh
+5248747 drwxr-xr-x  2 root  root  4096 ៧  28 23:38 test
+5149040 -rw-r--r--  1 root  root     0 ៧  28 23:38 test2.txt
+5149052 -rwxr-xr-x  1 root  root    81 ៧  29 00:24 test.sh
+5149045 -rw-r--r--  1 root  root    20 ៧  28 23:48 test.txt
+5149035 -rwxr-xr-x  1 root  root   197 ៧  28 23:14 while.sh
+5149043 -rwxr-xr-x  1 root  root    71 ៧  29 00:11 win_list.sh

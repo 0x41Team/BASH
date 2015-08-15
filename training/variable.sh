@@ -1,0 +1,2 @@
+a="lephuhai"
+echo ${#a}
